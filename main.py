@@ -1,3 +1,6 @@
 input_test = input("enter food categories eaten in last 24 hrs: ")
-menu = "tea smoothie pancakes sausages chipotle"
-print('Pancakes'.lower() in menu.lower())
+print(input_test.lower())
+print('It is,' "dairy" in input_test.lower(), "that in your eaten food: ", "There's dairy")
+#print('It is,' "nuts" in input_test.lower(), "that in your eaten food: ", input_test.lower(), "there's nuts")
+#print('It is,' "seafood" in input_test.lower(), "that in your eaten food: ", input_test.lower(), "there's seafood")
+#print('It is,' "chocolate" in input_test.lower(), "that in your eaten food: ", input_test.lower(), "there's chocolate")
