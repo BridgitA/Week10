@@ -1,1 +1,3 @@
-my_type = type(2.2)
+def say_hi():
+    print("Hello world!")
+say_hi()
