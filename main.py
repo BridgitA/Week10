@@ -1,2 +1,1 @@
-print("Hello", "World!")
-print()
+my_type = type(2.2)
